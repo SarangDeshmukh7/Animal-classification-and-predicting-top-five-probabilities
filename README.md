@@ -1,4 +1,4 @@
-# Classification-of-animals-using-transfer-learning and predicting top 5 probability
+# Classification-of-animals-using-transfer-learning-and-predicting-top-5-probabilities
 The image recognition model called Inception-v3 consists of two parts:
 
 Feature extraction part with a convolutional neural network.

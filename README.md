@@ -14,10 +14,10 @@ Example
 input
 img_path = 'dataset/african-elephant-bull.jpg'
 
-'''OUTPUT = Predicted: [('n02504458', 'African_elephant', 0.667814), 
+OUTPUT = Predicted: [('n02504458', 'African_elephant', 0.667814), 
                         ('n01871265', 'tusker', 0.24733664), 
                         ('n02504013', 'Indian_elephant', 0.02276934), 
                         ('n02391049', 'zebra', 0.00032032427), 
-                        ('n06785654', 'crossword_puzzle', 0.00031294647)]'''
+                        ('n06785654', 'crossword_puzzle', 0.00031294647)]
                         
 
